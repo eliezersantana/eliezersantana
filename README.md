@@ -27,3 +27,11 @@
 
 
 </div>
+
+
+### Áreas de interesse
+
+#### 🚰Desenvolvimento de soluções inteligentes para o saneamento
+#### 🕹️Sistemas de controle e automação conectados
+#### 💡Aplicação de aprendizado de máquina na indústria
+
