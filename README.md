@@ -10,6 +10,8 @@
 ##### 🛜 Gerenciamento de Dados e Integração de Sistemas de Automação
 
 
+
+
 ![eliezersantana GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezersantana&theme=blue-green)
 
 
